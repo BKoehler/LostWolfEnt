@@ -13,6 +13,9 @@ Our goal is to eventually use this resource as means to collaborate on new video
 
 ## News
 
+### 11-26-2014
+Completed set-up on demo repository for Lost Wolf. Learned how to make file changes and commit them. Also working on how to establish issues, and a Wiki.
+
 ### 11-24-2014
 Launched into game concepting mode. Looking at various collaboration venues, and discussed how we can best assemble and manage our team.
 
