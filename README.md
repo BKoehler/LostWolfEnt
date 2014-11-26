@@ -25,5 +25,5 @@ Launched into game concepting mode. Looking at various collaboration venues, and
 
 Thanks for Stopping  By!
 
-[The Lost Wolf Development Team] (https://github.com/BKoehler/lwe)
+[The Lost Wolf Development Team] (https://github.com/BKoehler/LostWolfEnt)
 
